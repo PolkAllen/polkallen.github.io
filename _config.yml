@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/PolkAllen/polkallen.github.io
+  repo: git@github.com:PolkAllen/polkallen.github.io.git
   branch: master
 
 excerpt_length: 150
