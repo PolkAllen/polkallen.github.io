@@ -37,4 +37,4 @@ tags:
 ### 总结
 后悔没有早些购买
 
-<iframe class="lc-margin-top-80 lc-margin-bottom-32 lc-mobile" data-v-b66e9a5a="" frameborder="0" src="https://button.like.co/in/embed/polkallen/button?referrer=https://polkallen.github.io/2021/11/05/%E4%BD%B3%E8%83%BDG3860%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BD%93%E9%AA%8C/#more" style="font-size: medium;" ></iframe>
+<iframe class="lc-margin-top-80 lc-margin-bottom-32 lc-mobile" data-v-b66e9a5a="" frameborder="0" src="https://button.like.co/in/embed/polkallen/button?referrer=https://polkallen.github.io/2021/11/07/%E8%81%8A%E8%81%8A%E7%A7%91%E6%B2%83%E6%96%AFN8%20PRO%E6%89%AB%E5%9C%B0%E6%9C%BA%E4%BA%BA%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C/" style="font-size: medium;" ></iframe>
