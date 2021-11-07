@@ -8,7 +8,7 @@ subtitle: '我是副标题'
 description: '我是描述'
 keywords:
 author: Polk Allen
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -105,3 +105,5 @@ deploy:
   type: git
   repo: https://github.com/PolkAllen/polkallen.github.io
   branch: master
+
+excerpt_length: 150
